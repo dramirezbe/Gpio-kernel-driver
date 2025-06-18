@@ -1,4 +1,6 @@
-
+# Made By:
+- Leandro Zapata Marin
+- David Ramírez Betancourth
 
 # Gpio-kernel-driver
 This Program consist in use C libraries adecuated to produce a kernel driver (maximum authority driver), this program controls a gpio status, with user control. A complete Linux character device driver and user-space application for controlling an LED connected to a GPIO pin.
